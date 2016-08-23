@@ -1,0 +1,12 @@
+PODS:
+  - SimpleKeychain (0.7.0)
+
+DEPENDENCIES:
+  - SimpleKeychain (~> 0.7)
+
+SPEC CHECKSUMS:
+  SimpleKeychain: b50cef3b87939d480ea1143425c00f5b4b70fe21
+
+PODFILE CHECKSUM: ef92dfc38f08affe198387ab3d28ecfdc5157124
+
+COCOAPODS: 1.0.1
